@@ -37,7 +37,7 @@ export default function ProjectsPage() {
               textAlign: 'center',
             }}
           >
-            <a href="https://vercel.com/kone/to-do-list" target="_blank" rel="noopener noreferrer">
+            <a href="https://to-do-list-blond-ten-97.vercel.app/" target="_blank" rel="noopener noreferrer">
               <Image src="/cc.png" alt="Projet 1" width={300} height={200} />
               <h2 style={{ marginTop: '1rem' }}>Projet 1</h2>
             </a>
@@ -54,7 +54,7 @@ export default function ProjectsPage() {
               textAlign: 'center',
             }}
           >
-            <a href="https://vercel.com/kone/todo-app" target="_blank" rel="noopener noreferrer">
+            <a href="https://todo-app-chi-taupe-20.vercel.app/" target="_blank" rel="noopener noreferrer">
               <Image src="/cv.png" alt="Projet 2" width={300} height={200} />
               <h2 style={{ marginTop: '1rem' }}>Projet 2</h2>
             </a>
@@ -71,7 +71,7 @@ export default function ProjectsPage() {
               textAlign: 'center',
             }}
           >
-            <a href="https://vercel.com/kone/movie" target="_blank" rel="noopener noreferrer">
+            <a href="https://restaurant-blue-nu.vercel.app/" target="_blank" rel="noopener noreferrer">
               <Image src="/gb.png" alt="Projet 3" width={300} height={200} />
               <h2 style={{ marginTop: '1rem' }}>Projet 3</h2>
             </a>
@@ -88,7 +88,7 @@ export default function ProjectsPage() {
               textAlign: 'center',
             }}
           >
-            <a href="https://vercel.com/kone/todo-app" target="_blank" rel="noopener noreferrer">
+            <a href="https://user-list-app-drab.vercel.app/" target="_blank" rel="noopener noreferrer">
               <Image src="/vb.png" alt="Projet 4" width={300} height={200} />
               <h2 style={{ marginTop: '1rem' }}>Projet 4</h2>
             </a>
